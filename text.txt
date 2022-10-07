@@ -1,0 +1,5 @@
+Internal => dont want to expose for external use
+cmd => entry point for your app
+pkg => packages you want to expose 
+
+workflow => business logic
